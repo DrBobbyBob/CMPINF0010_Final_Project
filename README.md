@@ -3,7 +3,7 @@
 # Metrics
 - Median age of death
 - Neighborhood employement
--School Enrollment
+- School Enrollment
 
 # Why
 Median death age will help show if a neighborhood has violent issue and it can help show if a neighborhoods healthcare is good. Usually better healthcare equals higher median death age.
