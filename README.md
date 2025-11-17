@@ -19,6 +19,6 @@ With my datasets, they are roughly 8 years old but they are the only avalible da
 My dataset was created in 2017, using data from 2015 which, like the other two datasets, was the only one on this topic available. It, along with the other datasets, will be used to determine the best neighborhood. It will be important to compare the raw numbers from the school enrollment dataset to the populations of these neighborhoods during this time, so as to derive rates from the dataset. The necessity of this step can be explained with an example: if 10,000 people were all enrolled in higher education in one neighborhood, this would appear very good. However, if there were 20,000,000 in the neighborhood in total, only a small percentage of the population would be enrolled, which is a significantly worse number. -M
 
 # Team Members
-Vincent Yang
-Martin McKee
-Nate Moser
+Vincent Yang-Median Age of Death
+Martin McKee-School Enrollment
+Nate Moser-Neighborhood Employment
