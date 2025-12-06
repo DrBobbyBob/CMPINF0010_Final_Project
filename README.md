@@ -9,7 +9,7 @@ Martin McKee- MRM491@pitt.edu
 Nate Moser- NMM131@pitt.edu
 
 # Metrics
-- Median age of death: Vincent Yang
+- Median age of death: Vincent Yang <br>
 - Neighborhood employement: Nate Moser
 - School Enrollment: Martin Mckee
 
