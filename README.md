@@ -4,12 +4,12 @@ This projects objective is to find the best neighborhood to live in by using thr
 
 Team [The] - Group 55
 # Team Members
-Vincent Yang- VIY29@pitt.edu
+Vincent Yang- VIY29@pitt.edu<br>
 Martin McKee- MRM491@pitt.edu
 Nate Moser- NMM131@pitt.edu
 
 # Metrics
-- Median age of death: Vincent Yang<br>
+- Median age of death: Vincent Yang
 - Neighborhood employement: Nate Moser
 - School Enrollment: Martin Mckee
 
