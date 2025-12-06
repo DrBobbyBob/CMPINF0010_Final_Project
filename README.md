@@ -5,7 +5,7 @@ This projects objective is to find the best neighborhood to live in by using thr
 Team [The] - Group 55
 # Team Members
 Vincent Yang- VIY29@pitt.edu<br>
-Martin McKee- MRM491@pitt.edu
+Martin McKee- MRM491@pitt.edu<br>
 Nate Moser- NMM131@pitt.edu
 
 # Metrics
